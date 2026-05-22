@@ -1,3 +1,5 @@
+<img width="700" height="217" alt="image" src="https://github.com/user-attachments/assets/6e873b15-775e-4280-876b-8312531f3ae5" />
+
 # Cotador de Planos de Saúde — Saúde Prime
 
 > Projeto desenvolvido para o Módulo 3 – Low Code / No Code / Vibecode  
