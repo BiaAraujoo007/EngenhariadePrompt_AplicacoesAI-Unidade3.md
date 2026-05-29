@@ -20,7 +20,7 @@ O corretor preenche o formulário com os dados do cliente (nome, faixas etárias
 
 - **Make** (anteriormente Integromat)
 
-- Foi escolhida porque o Make Forms já vem integrado ao cenário por padrão, sem configuração extra, e porque a interface visual permite montar o fluxo completo (formulário → processamento → e-mail → planilha) de forma rápida e legível. O plano gratuito é suficiente para desenvolvimento e testes, e ajustes de lógica ou preços são feitos diretamente no editor visual sem necessidade de deploy.
+- Foi escolhida porque o LOVEABLE já vem integrado ao cenário por padrão, sem configuração extra, e porque a interface visual permite montar o fluxo completo (formulário → processamento → e-mail → planilha) de forma rápida e legível. O plano gratuito é suficiente para desenvolvimento e testes, e ajustes de lógica ou preços são feitos diretamente no editor visual sem necessidade de deploy.
 
 ---
 
